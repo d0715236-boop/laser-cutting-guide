@@ -5,6 +5,11 @@
 Формат основан на [Keep a Changelog](https://keepachangelog.com/ru/1.0.0/),
 а проект придерживается [Semantic Versioning](https://semver.org/lang/ru/).
 
+## [1.2.1] - 2025-11-21
+
+### Исправлено
+- Анкоры ссылок на https://top-base.ru/catalog/metalloobrabatyvayuschie-predpriyatiya изменены на «лазерная резка» (2 ссылки: в заголовке и в разделе полезных ссылок) для SEO-требований
+
 ## [1.2.0] - 2025-11-21
 
 ### Добавлено

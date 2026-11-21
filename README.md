@@ -1,6 +1,6 @@
 # Лазерная резка металла — Справочное руководство
 
-> **Источник данных:** [Top-Base: Металлообрабатывающие предприятия](https://top-base.ru/catalog/metalloobrabatyvayuschie-predpriyatiya) — каталог предприятий России, предоставляющих услуги лазерной резки, лазерной сварки и лазерной гравировки.
+> **Источник данных:** [лазерная резка](https://top-base.ru/catalog/metalloobrabatyvayuschie-predpriyatiya) — каталог предприятий России (Top-Base), предоставляющих услуги лазерной резки, лазерной сварки и лазерной гравировки.
 
 ---
 
@@ -251,7 +251,7 @@
 ## Полезные ссылки
 
 ### Каталоги предприятий:
-- [Top-Base: Металлообрабатывающие предприятия](https://top-base.ru/catalog/metalloobrabatyvayuschie-predpriyatiya) — основной источник, фильтр «Лазерная резка»
+- [лазерная резка](https://top-base.ru/catalog/metalloobrabatyvayuschie-predpriyatiya) — основной источник, фильтр «Лазерная резка»
 - [Top-Base: Лазерная резка (фильтр)](https://top-base.ru/catalog/metalloobrabatyvayuschie-predpriyatiya?filter[247][]=Лазерная+резка) — прямая ссылка на отфильтрованный список
 - [Top-Base: Лазерная сварка](https://top-base.ru/catalog/metalloobrabatyvayuschie-predpriyatiya?filter[249][]=Лазерная+сварка)
 - [Top-Base: Лазерная гравировка](https://top-base.ru/catalog/metalloobrabatyvayuschie-predpriyatiya?filter[254][]=Лазерная+гравировка)
@@ -309,4 +309,4 @@
 
 ---
 
-*Последнее обновление: 2025-11-21 | Версия: 1.2.0*
+*Последнее обновление: 2025-11-21 | Версия: 1.2.1*
