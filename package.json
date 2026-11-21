@@ -1,0 +1,30 @@
+{
+  "name": "laser-cutting-guide",
+  "version": "1.2.0",
+  "description": "Справочное руководство по лазерной резке металла — материалы, технологии, подбор подрядчика, цены",
+  "main": "README.md",
+  "scripts": {
+    "version": "echo \"Current version: $npm_package_version\"",
+    "changelog": "cat CHANGELOG.md"
+  },
+  "keywords": [
+    "лазерная-резка",
+    "металлообработка",
+    "лазер",
+    "файбер-лазер",
+    "металл",
+    "производство",
+    "cnc",
+    "top-base"
+  ],
+  "author": "Antigravity AI Assistant",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/user/laser-cutting-guide"
+  },
+  "homepage": "https://top-base.ru/catalog/metalloobrabatyvayuschie-predpriyatiya",
+  "bugs": {
+    "url": "https://github.com/user/laser-cutting-guide/issues"
+  }
+}
